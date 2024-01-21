@@ -24,12 +24,15 @@ Follow these steps to get the app up and running on your local machine:
 .git
 
 Change the Project Directory
+  ```bash
 cd sketch-app
+
 Install dependencies:
 
+  ```bash
 npm install
+
 Start the development server:
-
-
+  ```bash
 npm start
 
