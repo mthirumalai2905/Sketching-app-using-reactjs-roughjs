@@ -39,10 +39,10 @@ Selection Rectangle: Press and drag to create a selection rectangle. Selected el
 Undo/Redo: Use the Undo and Redo buttons to undo or redo your actions.
 
 ## Folder Structure
--**src/:** Contains the React components and application logic.
--**public/:** Static assets and HTML template.
--**node_modules/:** Installed dependencies.
--**package.json:** Project configuration file.
+-**src/:** Contains the React components and application logic.<br>
+-**public/:** Static assets and HTML template.<br>
+-**node_modules/:** Installed dependencies.<br>
+-**package.json:** Project configuration file.<br>
 
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests.
