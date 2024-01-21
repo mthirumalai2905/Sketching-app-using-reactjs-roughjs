@@ -32,3 +32,25 @@ Follow these steps to get the app up and running on your local machine:
       Start the development server:
       npm start
 
+## Usage
+Pencil Tool: Click and drag to draw freehand.
+Text Tool: Click to add a text element. Enter text in the prompt.
+Selection Rectangle: Press and drag to create a selection rectangle. Selected elements can be moved.
+Undo/Redo: Use the Undo and Redo buttons to undo or redo your actions.
+
+## Folder Structure
+**src/:** Contains the React components and application logic.
+**public/:** Static assets and HTML template.
+**node_modules/:** Installed dependencies.
+**package.json:** Project configuration file.
+
+## Contributing
+Feel free to contribute to this project by submitting issues or pull requests.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+csharp
+Copy code
+
+You can copy and paste this into your `README.md` file.
