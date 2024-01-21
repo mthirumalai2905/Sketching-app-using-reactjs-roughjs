@@ -50,7 +50,3 @@ Feel free to contribute to this project by submitting issues or pull requests.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-csharp
-Copy code
-
-You can copy and paste this into your `README.md` file.
