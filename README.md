@@ -23,11 +23,11 @@ Follow these steps to get the app up and running on your local machine:
    git clone https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs.git
 2. Setting up the Project:
    ```bash
-Change into the project directory:
+      Change into the project directory:
+      cd sketch-app
+      Install dependencies:
+      npm install
 
-cd sketch-app
-Install dependencies:
-npm install
+     Start the development server:
+     npm start
 
-Start the development server:
-npm start
