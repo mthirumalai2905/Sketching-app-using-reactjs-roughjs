@@ -91,6 +91,7 @@ const adjustElementCoordinates = element => {
   }
 };
 
+
 const cursorForPosition = position => {
   switch (position) {
     case "tl":
